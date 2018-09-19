@@ -1,2 +1,2 @@
-# rsschool-profile
-rsschool-profile
+Alex Deiko
+HTML CSS Basics: https://www.codecademy.com/users/alexdejko/achievements
